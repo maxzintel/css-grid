@@ -1,3 +1,5 @@
+**_WILL NOT BE USING THIS REPO (FOR THIS COURSE ANYWAYS)._**
+**_Instead I just forked Jen's repo so its easier to code through the exercises._**
 # CSS Grid and Flexbox Fundamentals & Practice
 **Based on the FrontendMasters course by Jen Kramer**  
 
