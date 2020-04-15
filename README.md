@@ -6,3 +6,16 @@ Starting with a review of floats for context, but quickly moving into Flexbox an
 this essential course is for web developers that want to build responsive, beautiful web applications  
 faster using less code and best practices. Master CSS Grid and Flexbox, the latest tools and  
 tricks to layout beautiful, responsive web applications with less code.
+
+## Floats:
+
+## Flexbox:
+
+## Flexbox Grid:
+
+## Exercises:
+
+## Responsive Images:
+
+## CSS Grid:
+
