@@ -73,6 +73,14 @@ I'm not going to take many notes on these. As I expect they won't be very useful
   * Still a hack.
 * If a flex container is set to a 'column': `main axis` is the Y axis for a container. `cross axis` is the horizontal X axis.
   * If the container is set to a row, its the opposite as above. This is more common.
+* `display: flex;` Standards compliant declaration.
+  * This can different depending on browser and version.
+    * IE
+      * <=IE 9 is not supported.
+      * IE 10 supports ms prefixed 'flexbox'
+      * IE 11 and Edge supposedly have full support.
+    * Safari 7.1/8 require webkit prefix.
+  * https://caniuse.com/#feat=flexbox
 
 ## Flexbox Grid:
 
