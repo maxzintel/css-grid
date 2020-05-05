@@ -48,6 +48,7 @@ Basically, a hack for layout.
   }
 }
 ```
+* The above and below examples are examples of media queries to change the layout for different sized screens. 2 of 2 is for tablets. 4 of 1 is for mobile.
 * 4 Rows of 1:
 ```css for above.
 @media only screen and (max-width: 479px) {
@@ -62,6 +63,16 @@ This becomes a mess.
 I'm not going to take many notes on these. As I expect they won't be very useful.
 
 ## Flexbox:
+* The first actual layout elements. Not designed to layout whole webpages though.
+* Features `flex-containers` (rows, parent object) and `flex-items` (cells, child object).
+* Great at vertical centering and equal heights.
+* Easy to reorder boxes.
+* Drawbacks:
+  * Only works in 1 dimension. "One continuous row". Rows will wrap automatically.
+  * Browser support and syntax is challenging.
+  * Still a hack.
+* If a flex container is set to a 'column': `main axis` is the Y axis for a container. `cross axis` is the horizontal X axis.
+  * If the container is set to a row, its the opposite as above. This is more common.
 
 ## Flexbox Grid:
 
